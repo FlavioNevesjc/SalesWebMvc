@@ -30,4 +30,8 @@ C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc
 C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
 C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
