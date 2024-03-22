@@ -22,7 +22,7 @@ namespace SalesWebMvc.Data
                 _context.Seller.Any() ||
                 _context.SalesRecord.Any())
             {
-                return; //Bando de dados já foi populado
+                return; //Banco de dados já foi populado
             }
             Department d1 = new Department(1, "Computers");
             Department d2 = new Department(2, "Eletronics");
