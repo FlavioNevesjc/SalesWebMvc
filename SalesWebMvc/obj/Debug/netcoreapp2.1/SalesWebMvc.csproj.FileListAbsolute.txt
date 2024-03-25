@@ -38,3 +38,4 @@ C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc
 C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
 C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
 C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\fsnn\Projetos\Udemy\C_Sharp\Projeto\SalesWebMvc\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
